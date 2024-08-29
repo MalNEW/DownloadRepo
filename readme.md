@@ -1,6 +1,8 @@
 # Blog's download storage repo
-## Update log:
-### 2024/08/29
-***fh_loader.exe from MiFlash***
-***QFIL.vhost.exe.xxx renamed from MiFlash***
-***QMSL_MSVC10R.dll from MiFlash***
+Update log:</br>
+=========================================================</br>
+2024/08/29 Update QFIL_Repacked.zip </br>
+=========================================================</br>
+fh_loader.exe <- MiFlash</br>
+QFIL.vhost.exe.xxx renamed <- MiFlash</br>
+QMSL_MSVC10R.dll <- MiFlash</br>
